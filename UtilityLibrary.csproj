@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Unity3D.UnityEngine" Version="2018.1.6-f1"/>
+    <PackageReference Include="Unity3D.UnityEditor" Version="2018.1.6-f1"/>
+  </ItemGroup>
+</Project>

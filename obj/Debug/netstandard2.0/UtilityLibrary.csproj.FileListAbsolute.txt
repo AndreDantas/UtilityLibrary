@@ -1,0 +1,8 @@
+D:\OneDrive\AndreDantas\Scripts(Backup)\Unity\Utilities\UtilityLibrary\bin\Debug\netstandard2.0\UtilityLibrary.deps.json
+D:\OneDrive\AndreDantas\Scripts(Backup)\Unity\Utilities\UtilityLibrary\bin\Debug\netstandard2.0\UtilityLibrary.dll
+D:\OneDrive\AndreDantas\Scripts(Backup)\Unity\Utilities\UtilityLibrary\bin\Debug\netstandard2.0\UtilityLibrary.pdb
+D:\OneDrive\AndreDantas\Scripts(Backup)\Unity\Utilities\UtilityLibrary\obj\Debug\netstandard2.0\UtilityLibrary.csprojAssemblyReference.cache
+D:\OneDrive\AndreDantas\Scripts(Backup)\Unity\Utilities\UtilityLibrary\obj\Debug\netstandard2.0\UtilityLibrary.AssemblyInfoInputs.cache
+D:\OneDrive\AndreDantas\Scripts(Backup)\Unity\Utilities\UtilityLibrary\obj\Debug\netstandard2.0\UtilityLibrary.AssemblyInfo.cs
+D:\OneDrive\AndreDantas\Scripts(Backup)\Unity\Utilities\UtilityLibrary\obj\Debug\netstandard2.0\UtilityLibrary.dll
+D:\OneDrive\AndreDantas\Scripts(Backup)\Unity\Utilities\UtilityLibrary\obj\Debug\netstandard2.0\UtilityLibrary.pdb
